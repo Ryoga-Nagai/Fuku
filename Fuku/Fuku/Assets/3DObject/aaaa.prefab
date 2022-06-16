@@ -467,7 +467,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2420160007323614021}
   - component: {fileID: 6441206421646065343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Hair
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -651,9 +651,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 3685217945775837009}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: -0.00055829436, y: 1.6529149, z: -0.038673975}
+    m_Extent: {x: 0.11489266, y: 0.12587345, z: 0.121590964}
+  m_DirtyAABB: 0
 --- !u!1 &1206742117961988784
 GameObject:
   m_ObjectHideFlags: 0
@@ -2337,7 +2337,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1360670298464069092}
   - component: {fileID: 2797463923129364755}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Face
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2527,9 +2527,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 3685217945775837009}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: 0.000000022351742, y: 1.624069, z: 0.015775725}
+    m_Extent: {x: 0.108782694, y: 0.12448692, z: 0.07385713}
+  m_DirtyAABB: 0
 --- !u!1 &3639892355057192168
 GameObject:
   m_ObjectHideFlags: 0
@@ -3882,9 +3882,9 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 3685217945775837009}
   m_AABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+    m_Center: {x: 0, y: 0.88077897, z: 0.015510291}
+    m_Extent: {x: 0.78604144, y: 0.8807791, z: 0.15594813}
+  m_DirtyAABB: 0
 --- !u!1 &5879891203367787555
 GameObject:
   m_ObjectHideFlags: 0

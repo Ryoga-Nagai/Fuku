@@ -391,6 +391,7 @@
 "Assets/Scripts/EditGravity.cs"
 "Assets/Scripts/KeyMover.cs"
 "Assets/Scripts/KeyMover2.cs"
+"Assets/Scripts/ObjectLayerChanger.cs"
 "Assets/Scripts/RotateCube.cs"
 "Assets/Scripts/RotateCube2.cs"
 "Assets/Scripts/RotateCube3.cs"
