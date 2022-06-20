@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fuku.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\hibar\\Downloads\\Fuku-main\\Fuku-main\\Fuku\\Fuku\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Fuku [Testing]"
+        }
+      }
+    }
+  ]
+}

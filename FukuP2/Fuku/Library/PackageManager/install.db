@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "3ee6c452bc34",
+        "mtime": 1655355682707,
+        "size": 16210619,
+        "localPath": "C:\\Users\\hibar\\Downloads\\Fuku-main\\Fuku-main\\Fuku\\Fuku\\Assets\\SteamVR\\OpenVRUnityXRPackage\\Editor\\com.valvesoftware.unity.openvr-1.1.4.tgz"
+      }
+    }
+  }
+}
